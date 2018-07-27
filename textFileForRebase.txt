@@ -7,3 +7,4 @@ After rebase master and feature branch
 	One more commit in branch_rebase2
 
 Add mew line in master branch, child branch rebase has 2 commit ahead
+Only commit not push in master
