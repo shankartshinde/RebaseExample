@@ -4,8 +4,12 @@ third line added after new feature branch created
 third line added in feature branch
 After rebase master and feature branch 
 	new branch rebase2 created
+<<<<<<< HEAD
 	One more commit in branch_rebase2
 	new branch rebase2 created
 Add mew line in master branch, child branch rebase has 2 commit ahead
 Only commit not push in master
 One more type only commit 
+=======
+	One more commit in branch_rebase2
+>>>>>>> rebase2 added more text
