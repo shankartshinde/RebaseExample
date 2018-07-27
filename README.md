@@ -7,3 +7,4 @@ Fifth commit and pushed
         Second commit in child1
 shankar.shinde$ git rebase master child1
         After rebase first commit for test merge
+        After rebase Second commit for test merge
