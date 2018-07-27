@@ -3,3 +3,4 @@ second line from master
 third line added after new feature branch created
 third line added in feature branch
 After rebase master and feature branch 
+	new branch rebase2 created
