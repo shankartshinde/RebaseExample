@@ -8,3 +8,4 @@ After rebase master and feature branch
 
 Add mew line in master branch, child branch rebase has 2 commit ahead
 Only commit not push in master
+One more type only commit 
