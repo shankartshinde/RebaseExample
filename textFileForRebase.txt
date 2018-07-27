@@ -5,3 +5,4 @@ third line added in feature branch
 After rebase master and feature branch 
 	new branch rebase2 created
 	One more commit in branch_rebase2
+	Second Line added in the rebase2 branch
