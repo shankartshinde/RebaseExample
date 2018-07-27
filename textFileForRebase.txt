@@ -3,3 +3,7 @@ second line from master
 third line added after new feature branch created
 third line added in feature branch
 After rebase master and feature branch 
+	new branch rebase2 created
+	One more commit in branch_rebase2
+
+Add mew line in master branch, child branch rebase has 2 commit ahead
